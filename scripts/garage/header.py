@@ -78,7 +78,7 @@ def header_svg():
     )
     title = text("DMYTRO MURZA", 58, 118, 78, font="display", fill="#ffffff")
     shadow = text("DMYTRO MURZA", 64, 124, 78, font="display", fill="#e10600", attrs='opacity=".9"')
-    sub = text("MACHINE LEARNING  ·  BACKEND  ·  M.Sc. COMPUTER SCIENCE @ UNI KONSTANZ",
+    sub = text("SOFTWARE ENGINEER  ·  .NET & BACKEND  ·  MACHINE LEARNING  ·  M.Sc. CS @ KONSTANZ",
                62, 160, 15, font="bold", fill="#ffe2c4", spacing=1.8)
     quote = text("“Simplify, then add lightness.”  —  Colin Chapman", 62, 190, 13,
                  font="regular", fill="#d9a98a")

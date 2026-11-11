@@ -4,7 +4,8 @@
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-15121a?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/d-murza)
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-15121a?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/YOUR-HANDLE) -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-15121a?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/dmytro-murza)
+[![Email](https://img.shields.io/badge/Email-15121a?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:dmytro.murza.work@gmail.com)
 ![Location](https://img.shields.io/badge/Konstanz,_Germany-15121a?style=for-the-badge&logo=googlemaps&logoColor=e10600)
 ![Profile views](https://komarev.com/ghpvc/?username=d-murza&color=e10600&style=for-the-badge&label=PIT+STOPS)
 
@@ -14,9 +15,9 @@
 
 ## 🏁 Driver Profile
 
-I'm a **Computer Science Master's student at the University of Konstanz**. I like building complete systems end to end: from training and evaluating models to the backend, the API and the UI people actually use.
+I'm a **software engineer** and **Computer Science Master's student at the University of Konstanz**. I started on the systems side: as R&D team lead I built a high-frequency **crypto trading terminal in C#/.NET** used by 2,000+ customers, and I added distributed tracing to cloud video encoding services at **Bitmovin**. Now I'm adding **machine learning** to that: multimodal RAG, LLM fine-tuning and vision foundation models.
 
-My work spans **machine learning** (multimodal RAG, LLM fine-tuning, vision foundation models), **backend engineering** (.NET microservices, message queues, real-time messaging) and **web development**, down to **systems programming in C**.
+I like building complete systems end to end, from the model or the concurrency model down to the API, the UI, and the bug that only appears under load.
 
 Off the keyboard, I'm a car person. Hence the circuit below.
 
@@ -24,11 +25,26 @@ Off the keyboard, I'm a car person. Hence the circuit below.
 driver:
   name:       Dmytro Murza
   team:       M.Sc. Computer Science @ University of Konstanz
-  engine:     [PyTorch, Hugging Face, FAISS, C# / .NET, TypeScript, C]
-  specialty:  [Multimodal RAG, LLM fine-tuning, Computer vision, Backend systems]
+  previously: B.Sc. Computer Science @ Constructor University
+  engine:     [C# / .NET, Python, PyTorch, TypeScript, C / C++, Java]
+  specialty:  [Concurrent & real-time systems, Backend, Multimodal RAG, LLM fine-tuning]
+  languages:  { English: C1, German: B1 }
   setup:      "Simplify, then add lightness."
   off_track:  cars, motorsport, and anything with a well-tuned engine
 ```
+
+---
+
+## 🏎️ Race History · Experience
+
+- 📈 **R&D Engineer (Team Lead)** · VPMF Technologies OÜ, Tallinn · *09/2023 – present*
+  Built a WPF trading terminal (C#/.NET) for high-frequency crypto trading that integrates 6 exchanges (Binance, Bybit, OKX, …) and has 2,000+ customers. Built parallel data ingestion with async/await, concurrent collections and producer/consumer pipelines. Hunted down memory leaks, deadlocks and race conditions using dumps and regression tests. Leading a team of 3 engineers in Agile sprints.
+- 🎬 **Software Engineering Intern** · Bitmovin, Berlin · *06/2024 – 08/2024*
+  Added OpenTelemetry distributed tracing across cloud video encoding services, with trace context propagated through the HTTP pipeline. Worked in C++, Java and Kotlin, and tested with Google Test and JUnit. Monitored services in Kibana and verified encoding output with FFmpeg and MP4Box.
+- 🧑‍🏫 **Teaching Assistant: Operating Systems** and **Digital Systems & Computer Architecture** · Constructor University · *2024 – 2025*
+  Mentored 100+ students in concurrency, scheduling, synchronization, memory management, Verilog and CPU fundamentals.
+- 🎓 **Academic project: Concurrency and data synchronization in real-time financial applications** · Constructor University · *05/2025* · grade 1.0
+  Compared thread-based and task-based concurrency models for low-latency trading, and evaluated synchronization primitives and concurrent collections.
 
 ---
 
@@ -52,11 +68,24 @@ driver:
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-15121a?style=for-the-badge&logo=python&logoColor=ffcf6b)
 ![C#](https://img.shields.io/badge/C%23-15121a?style=for-the-badge&logo=dotnet&logoColor=ffcf6b)
+![Python](https://img.shields.io/badge/Python-15121a?style=for-the-badge&logo=python&logoColor=ffcf6b)
 ![TypeScript](https://img.shields.io/badge/TypeScript-15121a?style=for-the-badge&logo=typescript&logoColor=ffcf6b)
+![C++](https://img.shields.io/badge/C%2B%2B-15121a?style=for-the-badge&logo=cplusplus&logoColor=ffcf6b)
 ![C](https://img.shields.io/badge/C-15121a?style=for-the-badge&logo=c&logoColor=ffcf6b)
+![Java](https://img.shields.io/badge/Java-15121a?style=for-the-badge&logo=openjdk&logoColor=ffcf6b)
 ![SQL](https://img.shields.io/badge/SQL-15121a?style=for-the-badge&logo=postgresql&logoColor=ffcf6b)
+
+**Backend & Desktop**
+
+![.NET](https://img.shields.io/badge/ASP.NET_Core-15121a?style=for-the-badge&logo=dotnet&logoColor=ff8a3d)
+![WPF](https://img.shields.io/badge/WPF-15121a?style=for-the-badge&logo=windows&logoColor=ff8a3d)
+![React](https://img.shields.io/badge/React-15121a?style=for-the-badge&logo=react&logoColor=ff8a3d)
+![Electron](https://img.shields.io/badge/Electron-15121a?style=for-the-badge&logo=electron&logoColor=ff8a3d)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-15121a?style=for-the-badge&logo=rabbitmq&logoColor=ff8a3d)
+![Redis](https://img.shields.io/badge/Redis-15121a?style=for-the-badge&logo=redis&logoColor=ff8a3d)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15121a?style=for-the-badge&logo=postgresql&logoColor=ff8a3d)
+![SQL Server](https://img.shields.io/badge/SQL_Server-15121a?style=for-the-badge&logo=microsoftsqlserver&logoColor=ff8a3d)
 
 **Machine Learning**
 
@@ -67,15 +96,16 @@ driver:
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-15121a?style=for-the-badge&logo=scikitlearn&logoColor=e10600)
 ![Gradio](https://img.shields.io/badge/Gradio-15121a?style=for-the-badge&logo=gradio&logoColor=e10600)
 
-**Backend, Web & Infrastructure**
+**Infrastructure, Observability & Tooling**
 
-![.NET](https://img.shields.io/badge/ASP.NET_Core-15121a?style=for-the-badge&logo=dotnet&logoColor=ff8a3d)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-15121a?style=for-the-badge&logo=rabbitmq&logoColor=ff8a3d)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15121a?style=for-the-badge&logo=postgresql&logoColor=ff8a3d)
-![React](https://img.shields.io/badge/React-15121a?style=for-the-badge&logo=react&logoColor=ff8a3d)
-![Electron](https://img.shields.io/badge/Electron-15121a?style=for-the-badge&logo=electron&logoColor=ff8a3d)
-![Docker](https://img.shields.io/badge/Docker-15121a?style=for-the-badge&logo=docker&logoColor=ff8a3d)
-![Git](https://img.shields.io/badge/Git-15121a?style=for-the-badge&logo=git&logoColor=ff8a3d)
+![Docker](https://img.shields.io/badge/Docker-15121a?style=for-the-badge&logo=docker&logoColor=ffffff)
+![AWS](https://img.shields.io/badge/AWS_S3_·_SQS-15121a?style=for-the-badge&logo=amazonwebservices&logoColor=ffffff)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-15121a?style=for-the-badge&logo=opentelemetry&logoColor=ffffff)
+![Kibana](https://img.shields.io/badge/Kibana-15121a?style=for-the-badge&logo=kibana&logoColor=ffffff)
+![TeamCity](https://img.shields.io/badge/TeamCity-15121a?style=for-the-badge&logo=teamcity&logoColor=ffffff)
+![Linux](https://img.shields.io/badge/Linux-15121a?style=for-the-badge&logo=linux&logoColor=ffffff)
+![Git](https://img.shields.io/badge/Git-15121a?style=for-the-badge&logo=git&logoColor=ffffff)
+![Jira](https://img.shields.io/badge/Jira-15121a?style=for-the-badge&logo=jira&logoColor=ffffff)
 
 </div>
 
