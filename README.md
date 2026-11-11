@@ -37,8 +37,8 @@ driver:
 
 ## 🏎️ Race History · Experience
 
-- 📈 **R&D Engineer (Team Lead)** · VPMF Technologies OÜ, Tallinn · *09/2023 – present*
-  Built a WPF trading terminal (C#/.NET) for high-frequency crypto trading that integrates 6 exchanges (Binance, Bybit, OKX, …) and has 2,000+ customers. Built parallel data ingestion with async/await, concurrent collections and producer/consumer pipelines. Hunted down memory leaks, deadlocks and race conditions using dumps and regression tests. Leading a team of 3 engineers in Agile sprints.
+- 📈 **R&D Engineer (Team Lead)** · VPMF Technologies OÜ, Tallinn · *09/2023 – 08/2026*
+  Built a WPF trading terminal (C#/.NET) for high-frequency crypto trading that integrates 6 exchanges (Binance, Bybit, OKX, …) and has 2,000+ customers. Built parallel data ingestion with async/await, concurrent collections and producer/consumer pipelines. Hunted down memory leaks, deadlocks and race conditions using dumps and regression tests. Led a team of 3 engineers in Agile sprints. Product overview videos (in Russian) are on the [ProfitForge YouTube channel](https://www.youtube.com/@ProfitForgeOfficial).
 - 🎬 **Software Engineering Intern** · Bitmovin, Berlin · *06/2024 – 08/2024*
   Added OpenTelemetry distributed tracing across cloud video encoding services, with trace context propagated through the HTTP pipeline. Worked in C++, Java and Kotlin, and tested with Google Test and JUnit. Monitored services in Kibana and verified encoding output with FFmpeg and MP4Box.
 - 🧑‍🏫 **Teaching Assistant: Operating Systems** and **Digital Systems & Computer Architecture** · Constructor University · *2024 – 2025*
@@ -55,7 +55,7 @@ driver:
 | 🔎 | **[Multimodal RAG Assistant](https://github.com/d-murza/multimodal-rag-assistant)** | Answers "how do I…?" questions: retrieves WikiHow articles, generates grounded steps with a local LLM, and matches each step to a HowTo100M video clip. | `RAG` `FAISS` `CLIP` `TinyLlama` `Gradio` |
 | 🧬 | **[Qwen3 Patent Classifier](https://github.com/d-murza/qwen3-patent-classifier)** | LoRA fine-tuning of Qwen3-0.6B with completion-only loss masking; raises patent IPC classification F1 from 0.05 to 0.44 on a single T4. | `PEFT` `LoRA` `Transformers` |
 | 👁️ | **[Vision Foundation Models](https://github.com/d-murza/vision-foundation-models)** | Zero-label anomaly detection with DINOv2 patch features (0.98 mean AUROC on MVTec-AD), plus segmentation and monocular depth. | `DINOv2` `SegFormer` `Depth Anything` |
-| 🗓️ | **[PlanIt](https://github.com/d-murza/planit)** | Schedule desktop automations from the web: .NET microservices push triggered plans over RabbitMQ and SignalR to an Electron client. | `.NET` `RabbitMQ` `SignalR` `React` `Docker` |
+| 🗓️ | **[PlanIt](https://github.com/d-murza/PlanIt_WebApp)** | Schedule desktop automations from the web: .NET microservices push triggered plans over RabbitMQ and SignalR to an Electron client. | `.NET` `RabbitMQ` `SignalR` `React` `Docker` |
 | 🌐 | **[InvestBud Podillia](https://investbud-podillia.com.ua/)** | Production website for a Ukrainian construction company: bilingual, project portfolio with city filters, interactive map, lead form. | `Web` `Vite` `Leaflet` |
 | 🧪 | **[Machine Learning Labs](https://github.com/d-murza/machine-learning-labs)** | Transformers and ViTs written from scratch, autoencoders vs. VAEs, DINOv2 image search, T5 vs. TinyLlama. | `PyTorch` `Transformers` |
 | 🔌 | **[TCP Word Game Server](https://github.com/d-murza/tcp-word-game-server)** | Multiplayer game server in C: single-threaded libevent loop, non-blocking IPv4/IPv6 sockets. | `C` `libevent` `sockets` |
